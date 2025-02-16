@@ -1,4 +1,5 @@
-🚀 Anand Tripathi | Aspiring Android Developer
+🚀 Anand Tripathi 
+| Aspiring Android Developer | Java Developer | Web Developer |
 "With every line of code, I build solutions; with every challenge, I grow stronger."
 
 👨‍💻 B.Tech in IT | 💡 Passionate about building innovative apps
@@ -8,7 +9,6 @@
 🔹 Always exploring new technologies and refining my skills.
 🔹 Open to collaborations and exciting projects!
 
-📌 Notable Project: Online Car Service Registration System 🚗
 📌 Currently Learning: Advanced Android Development
 
 💬 Let's connect!
