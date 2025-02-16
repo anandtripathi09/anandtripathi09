@@ -1,6 +1,6 @@
 🚀 Anand Tripathi 
 
-| Aspiring Android Developer | Java Developer | Web Developer |
+ Software Developer | Aspiring Android Developer | Java Developer | Web Developer 
 
 "With every line of code, I build solutions; with every challenge, I grow stronger."
 
