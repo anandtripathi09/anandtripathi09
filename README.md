@@ -12,4 +12,11 @@
 📌 Currently Learning: Advanced Android Development
 
 💬 Let's connect!
-📧 anandtripathi@example.com
+📧 anand.t9903@example.com
+🔗 LinkedIn: [anandtripathi03](https://www.linkedin.com/in/anandtripathi03)
+
+
+
+
+
+
